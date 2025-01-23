@@ -22,10 +22,10 @@ Es perfecta para organizar intercambios de regalos de manera sencilla y divertid
 Aquí hay una vista previa de la aplicación en acción:
 
 ### Pantalla principal
-![Pantalla principal](assets\screenshots\pantalla_principal.png)
+![Pantalla principal](assets/screenshots/pantalla_principal.png)
 
 ### Sorteo en acción
-![Sorteo](assets\screenshots\sorteo.png)
+![Sorteo](assets/screenshots/sorteo.png)
 
 ---
 
