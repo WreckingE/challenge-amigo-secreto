@@ -6,6 +6,8 @@ _Amigo Secreto_ es una aplicación web interactiva que permite a los usuarios ag
 
 Es perfecta para organizar intercambios de regalos de manera sencilla y divertida.
 
+SI deseas probarla está activa en pages: https://wreckinge.github.io/challenge-amigo-secreto/
+
 ---
 
 ## Características 
